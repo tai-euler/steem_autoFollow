@@ -16,6 +16,7 @@ This is a powerful script to automate following of users on steemit.com written 
 
 ## -------------------------------------------------------------------
 <img src="https://preview.ibb.co/cRNEEF/Screen_Shot_2017_09_11_at_00_43_16.png" alt="wolfiecindysmile" style="width:304px;height:228px;">
+## -------------------------------------------------------------------
 
 ### prerequisite: 
 1. ```selenium```
