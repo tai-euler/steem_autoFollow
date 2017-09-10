@@ -14,6 +14,7 @@ This is a powerful script to automate following of users on steemit.com written 
 ## example: 
 1. ``python autoFollow.py tai-euler dNy12rjQxJcpV6Qyg59jQxJcpV6QygaWvQdNy12rjQxJcpV6Qyga jerrybanfield followed``
 
+## --------------------------------------------------------------------------------------------------
 <img src="https://preview.ibb.co/cRNEEF/Screen_Shot_2017_09_11_at_00_43_16.png" alt="wolfiecindysmile" style="width:304px;height:228px;">
 
 ### prerequisite: 
