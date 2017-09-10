@@ -1,5 +1,5 @@
 # steem_autoFollow
-This is a script to automatise following of users on steemit.com
+This is a script to automate following of users on steemit.com
 
 This is a powerful script to automatise following of users on steemit.com written in python 2.7
 
