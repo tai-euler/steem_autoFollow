@@ -23,3 +23,7 @@ This is a powerful script to automate following users on steemit.com written in 
 1. ```selenium```
 2. ```python 2.7```
 3. ```firefox```
+
+
+To-do:
+* sleep every 10 minutes to not exhaust totally your bandwith power on steemit
