@@ -2,6 +2,7 @@
 
 
 This is a powerful script to automate following users on steemit.com written in python 2.7
+
 We are not communicating directly with the steemit blockchain, but indirectly via the steemit frontend website and browser automation.
 
 
