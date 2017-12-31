@@ -1,5 +1,4 @@
 # needs to change interpreter to python 2.7
-# author: tai-euler ==> steemit.com/@tai-euler
 # usage: python autoFollow.py yourUsername yourPassword hisOrHerUsername followersOrFollowing
 
 import sys
